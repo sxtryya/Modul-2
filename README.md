@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/fc4b9828-8886-422c-84bc-4cfdcdbaa483
 # Laporan Praktikum Modul 2
 ### deadline 28 September 2025 Pukul 23:59
 
@@ -6,7 +8,7 @@ Tugas, silahkan kalian buka di modul 2 terus cari di 2.6 latihan modul 2.
 
 ## Langkah Langkah
 - kerjakan laporan sesuai template [template_laporan.docx](https://github.com/user-attachments/files/22464701/template_laporan.docx)
-- kirim ke github fitur `Add file`, kemudian pilih `Upload files` tutor: Uploading Video WhatsApp 2025-09-22 pukul 17.56.26_9828fc65.mp4…
+- kirim ke github fitur `Add file`, kemudian pilih `Upload files` tutor: Uploading Video WhatsApp 2025-09-22 pukul 17.56.26_87bfca45.mp4…
 
 ## Note
 - tidak di wajibkan full layar, hanya IDE dan output dan NOTEPAD yang diwajibkan ada pada screenshot
